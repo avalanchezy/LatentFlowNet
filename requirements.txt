@@ -1,0 +1,9 @@
+# Install the appropriate CPU/CUDA PyTorch build for your system.
+torch>=2.1
+numpy>=1.24
+pandas>=2.0
+nibabel>=5.0
+tqdm>=4.65
+torchmetrics>=1.0
+scikit-image>=0.20
+matplotlib>=3.7

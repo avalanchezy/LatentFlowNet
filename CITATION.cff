@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please cite LatentFlowNet when using this code."
+type: software
+title: LatentFlowNet
+repository-code: "https://github.com/avalanchezy/LatentFlowNet"
+license: MIT
+authors:
+  - family-names: Zhu
+    given-names: Yi
+  - family-names: Zhang
+    given-names: Yanteng
+  - family-names: Mei
+    given-names: Siyuan
+  - family-names: Wei
+    given-names: Yuxiang
+  - family-names: Yu
+    given-names: Hongjie
+  - family-names: Rajapakse
+    given-names: Jagath
+  - family-names: Valette
+    given-names: Sebastien
+  - family-names: Calhoun
+    given-names: Vince
