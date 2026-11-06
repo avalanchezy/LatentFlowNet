@@ -43,7 +43,7 @@ data/
 ```
 
 Keep each subject in one split. Intermediate visits supply training supervision; validation and test use endpoints. Data and trained weights are supplied separately from this code repository.
-
+<!--
 ## Stage 1: endpoint-trained KL-VAE
 
 ```bash
@@ -109,7 +109,7 @@ python train_latentflownet.py --mode test \
 ```
 
 This reports image metrics against the supplied raw target volumes as well as decoded-target and latent metrics. `raw_data_root` is the test split directory containing subject folders. Use the same model architecture and baseline covariates as during training. Metric definitions and loss reductions are described in [the implementation notes](docs/method.md).
-
+-->
 ## Code map
 
 | File | Role |
